@@ -41979,7 +41979,7 @@ return new K.BQ(C.uw,q,p)})
 r($,"ady","a2i",function(){var q=null,p=t.N
 return new N.E_(P.bc(20,q,!1,t.dR),0,new N.Jh(H.b([],t.C)),q,P.u(p,H.P("eI<a9f>")),P.u(p,H.P("a9f")),P.a05(t.K,p),0,q,!1,!1,q,q,0,q,q,N.a_X(),N.a_X())})
 s($,"aco","a1J",function(){return P.wU("^[\\w!#%&'*+\\-.^`|~]+$",!0)})
-r($,"ack","a1I",function(){return C.c.ci("http://127.0.0.1:8000",7)})})();(function nativeSupport(){!function(){var s=function(a){var m={}
+r($,"ack","a1I",function(){return C.c.ci("http://0.0.0.0:8000",7)})})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
 v.getIsolateTag=function(a){return s("___dart_"+a+v.isolateTag)}
