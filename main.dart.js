@@ -53225,7 +53225,7 @@ o=M.eL(C.ac,G.a5A(new S.mw("Hello there, This is  Akshit Verma",C.j,k,40,new D.c
 q=C.cY.HZ(m.x,!q)?1:0
 p=P.bl(0,2000)
 n=t.E
-j=H.a([M.eL(l,T.op(C.bU,H.a([s,r,o,new T.lq(C.hh,G.a5A(L.lU("Akshit Verma",l,A.ha(l,l,C.j,l,l,l,l,l,"Cormorant",l,l,30,l,l,l,l,!0,l,l,l,l,l,l,l),l),p,q),l)],n),C.bo),C.u,l,l,new S.fB(l,new X.zo(new L.q9("images/darkbg.jpg"),C.fI),l,l,l,l,C.a5),l,i,l,l,l,l,j)],n)
+j=H.a([M.eL(l,T.op(C.bU,H.a([s,r,o,new T.lq(C.hh,G.a5A(L.lU("Akshit Verma",l,A.ha(l,l,C.j,l,l,l,l,l,"Cormorant",l,l,30,l,l,l,l,!0,l,l,l,l,l,l,l),l),p,q),l)],n),C.bo),C.u,l,l,new S.fB(l,new X.zo(new L.q9("assets/images/darkbg.jpg"),C.fI),l,l,l,l,C.a5),l,i,l,l,l,l,j)],n)
 i=P.aI([null,0],t.st,t.S)
 return M.abW(C.j,T.aac(H.a([T.aaz(new B.AO(new G.XY(!0,!0,!0,j,i),l,C.n,!1,l,!0,C.jO,!1,l,1,C.bb,C.wQ,l,C.at,l),1)],n),C.cS,C.eB))}}
 Y.a0t.prototype={
