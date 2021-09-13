@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "19a82283a550127704ccf97fd1869002",
-"/": "19a82283a550127704ccf97fd1869002",
+  "index.html": "27b87e6ba1b54c869681e51212d5388d",
+"/": "27b87e6ba1b54c869681e51212d5388d",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "882aaf283d14f755d721850da6a18022",
 "assets/assets/fonts/Rajdhani-Light.ttf": "d81f6a473fc85da9e69f0737619596f0",
@@ -39,7 +39,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/AssetManifest.json": "a320491137e9d355a24f57e159c02356",
 "assets/FontManifest.json": "52e6ece265c19c8311111ce6f22ebb4e",
-"main.dart.js": "d1143e51459e11fb7d3f31595107829d",
+"main.dart.js": "385cd916677d123b03317c6452f7df2e",
 "manifest.json": "6ff5581a257891af535ba5f97c207139",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "584af039f3a939c582bc7483baf3b284",
