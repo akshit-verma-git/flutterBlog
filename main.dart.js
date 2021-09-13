@@ -10400,7 +10400,7 @@ vr:function vr(){},
 rN:function rN(a){this.a=a},
 HO:function HO(a){var _=this
 _.ch=_.Q=_.z=_.y=_.x=_.f=_.e=_.d=!1
-_.cx="projects"
+_.cx=""
 _.a=null
 _.b=a
 _.c=null},
@@ -54819,7 +54819,7 @@ l=$.bI
 k=t.E
 p=M.as(g,T.dP(H.a([o,n,new T.dY(C.bM,m,g),L.b3("I used erlang as the backend language, couchdb as database, nitrogen as web framework and deployed on Ec2 instance on AWS.\n\nSome of my key responsibilities were:\n\n- Querries for database CRUD operations.\n- Caching servers to improve latency using gen servers.\n- State machines for customer order behaviour using gen_fsm,\n- Built gen_servers with routine behaviours like, opening delivery slots and sending reminders to customers. \n- Several reports for day to day operation for ordering, packing, inventory and delivery of items.\n- REST api for mobile apps Freszo(on Playstore) and a delivery app.\n- Built  ordering app Freszo and its delivery app using flutter.\n- Built clustering models over customer behaviour.\n\n",!0,A.bu(g,g,C.i,g,g,g,g,g,f,g,g,16,g,C.cl,g,g,!0,g,g,g,g,g,g,g),l)],k),C.ag,C.O),C.k,g,g,g,g,g,g,g,g,g,p*0.6)
 l=h.a.c
-s=V.a7u(M.as(g,T.k4(H.a([p,M.as(g,O.abZ(H.a([M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("../assets/images/freszo/home.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/freszo/cart.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/freszo/offers.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/freszo/settings.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.e3,new L.d6("/images/freszo/stocks.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.e3,new L.d6("/images/freszo/messages.png")),g,g,g,g,C.y),g,g,g,g,g,g,g)],k),B.abY(1.5,!0,P.aW(0,0,3),1)),C.k,g,g,g,g,g,g,g,g,g,l*0.33)],k),C.a7,C.O,C.b_),C.k,g,g,g,g,g,g,new V.aD(q,s,q,s),g,g,g),C.U)
+s=V.a7u(M.as(g,T.k4(H.a([p,M.as(g,O.abZ(H.a([M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/freszo/home.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/freszo/cart.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/freszo/offers.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/freszo/settings.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.e3,new L.d6("assets/images/freszo/stocks.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.e3,new L.d6("assets/images/freszo/messages.png")),g,g,g,g,C.y),g,g,g,g,g,g,g)],k),B.abY(1.5,!0,P.aW(0,0,3),1)),C.k,g,g,g,g,g,g,g,g,g,l*0.33)],k),C.a7,C.O,C.b_),C.k,g,g,g,g,g,g,new V.aD(q,s,q,s),g,g,g),C.U)
 q=$.dI
 l=30*q
 p=20*$.e_
@@ -54833,7 +54833,7 @@ j=Z.acd(new P.y(R.c_("66fcf1")>>>0))
 i=$.bI
 m=M.as(g,T.dP(H.a([n,o,new T.dY(C.bM,j,g),L.b3("\nProblem at hand was, I needed to extract the shape of left ventricle of heart from the 3D ultrasound\nimages. I then calculated the volume of the ventricle in systolic and diastolic phases.\n\nTo build it I used->\n\u2022 Gaussian Restricted Boltzmann machine to learn features from images.\n\u2022 These features were then fed into a Random forest classifier to localize the left ventricle.\n\u2022 The localization was then used as an input to Active Contour model to generate the shape of left\nventricle.\n",!0,A.bu(g,g,C.i,g,g,g,g,g,f,g,g,16,g,C.cl,g,g,!0,g,g,g,g,g,g,g),i)],k),C.ag,C.O),C.k,g,g,g,g,g,g,g,g,g,m*0.6)
 i=h.a.c
-return T.Qn(E.adS(M.as(g,T.dP(H.a([b,new T.dY(new V.aD(0,r,0,r),s,g),new T.dY(new V.aD(0,l,0,l),V.a7u(M.as(g,T.k4(H.a([m,M.as(g,O.abZ(H.a([M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/isi/heart.gif")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/isi/acm-grad-image.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/isi/filter-1.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/isi/filter-2.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/isi/filter-3.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("/images/isi/filter-4.png")),g,g,g,g,C.y),g,g,g,g,g,g,g)],k),B.abY(1.5,!0,P.aW(0,0,4),1)),C.k,g,g,g,g,g,g,g,g,g,i*0.33)],k),C.a7,C.O,C.b_),C.k,g,g,g,g,g,g,new V.aD(p,q,p,q),g,g,g),C.U),g)],k),C.ag,C.O),C.k,g,g,g,g,g,g,new V.aD(d,c,d,c),g,g,e)),1)}}
+return T.Qn(E.adS(M.as(g,T.dP(H.a([b,new T.dY(new V.aD(0,r,0,r),s,g),new T.dY(new V.aD(0,l,0,l),V.a7u(M.as(g,T.k4(H.a([m,M.as(g,O.abZ(H.a([M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/isi/heart.gif")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/isi/acm-grad-image.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/isi/filter-1.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/isi/filter-2.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/isi/filter-3.png")),g,g,g,g,C.y),g,g,g,g,g,g,g),M.as(C.ae,g,C.k,g,g,new S.bL(g,X.eI(C.av,new L.d6("assets/images/isi/filter-4.png")),g,g,g,g,C.y),g,g,g,g,g,g,g)],k),B.abY(1.5,!0,P.aW(0,0,4),1)),C.k,g,g,g,g,g,g,g,g,g,i*0.33)],k),C.a7,C.O,C.b_),C.k,g,g,g,g,g,g,new V.aD(p,q,p,q),g,g,g),C.U),g)],k),C.ag,C.O),C.k,g,g,g,g,g,g,new V.aD(d,c,d,c),g,g,e)),1)}}
 G.v4.prototype={
 am:function(){return new G.Kc(C.l)}}
 G.Kc.prototype={
@@ -54857,7 +54857,7 @@ k=T.dP(H.a([new T.dY(new V.aD(s,r,s,r),q,i),p,m,new T.dY(new V.aD(n,l,n,l),L.b3(
 l=20*$.e_
 n=10*$.dI
 m=$.bI
-return M.as(i,T.k4(H.a([k,M.as(i,T.dP(H.a([L.b3("Certifications: ",i,A.bu(i,i,C.i,i,i,i,i,i,i,i,i,25,i,i,i,i,!0,i,i,i,i,i,i,i),m),T.k4(H.a([j.q5(g,h,"/images/certificates/aws.png","AWS"),j.q5(g,h,"/images/certificates/isi.png","Left Ventricle Segmentation")],o),C.a7,C.O,C.b_),T.k4(H.a([j.q5(g,h,"/images/certificates/machineLearning.png","Machine Learning"),j.q5(g,h,"/images/certificates/deepLearning.png","Deep Learning")],o),C.a7,C.O,C.b_)],o),C.ag,C.O),C.k,i,i,i,i,i,i,new V.aD(l,n,l,n),i,i,g/2)],o),C.ag,C.iv,C.b_),C.k,i,i,i,i,i,i,i,i,i,i)},
+return M.as(i,T.k4(H.a([k,M.as(i,T.dP(H.a([L.b3("Certifications: ",i,A.bu(i,i,C.i,i,i,i,i,i,i,i,i,25,i,i,i,i,!0,i,i,i,i,i,i,i),m),T.k4(H.a([j.q5(g,h,"assets/images/certificates/aws.png","AWS"),j.q5(g,h,"assets/images/certificates/isi.png","Left Ventricle Segmentation")],o),C.a7,C.O,C.b_),T.k4(H.a([j.q5(g,h,"assets/images/certificates/machineLearning.png","Machine Learning"),j.q5(g,h,"assets/images/certificates/deepLearning.png","Deep Learning")],o),C.a7,C.O,C.b_)],o),C.ag,C.O),C.k,i,i,i,i,i,i,new V.aD(l,n,l,n),i,i,g/2)],o),C.ag,C.iv,C.b_),C.k,i,i,i,i,i,i,i,i,i,i)},
 hE:function(a,b){var s,r,q,p,o,n,m=null,l=$.e0,k=$.bI
 l=M.as(m,L.b3(a,!0,A.bu(m,m,C.i,m,m,m,m,m,"Rajdhani",m,m,22,m,m,m,m,!0,m,m,m,m,m,m,m),k),C.k,m,m,m,m,m,m,C.bM,m,m,l/10)
 k=a+" box"
